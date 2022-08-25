@@ -1,5 +1,4 @@
 package Home2;
-
 public class Array {
     private String[][] strings;
 
