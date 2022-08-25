@@ -1,5 +1,4 @@
 package Home2;
-
 public class Home2 {
     public static void main(String[] args) {
         String[][] strings = MyArray();
